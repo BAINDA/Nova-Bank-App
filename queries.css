@@ -1,0 +1,55 @@
+@media (max-width: 40em) {
+  .app {
+    padding: 2rem;
+  }
+}
+
+@media (max-width: 30em) {
+  .movements__row {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 57em) {
+  .operation,
+  .movements,
+  .logout-timer {
+    grid-column: 1 / -1;
+  }
+
+  .balance {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .logout-timer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .summary {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    grid-column: 1 / -1;
+  }
+
+  .btn--sort {
+    margin-left: 0;
+  }
+
+  nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 2rem;
+    gap: 20px;
+    flex-direction: column;
+  }
+}
