@@ -1,5 +1,4 @@
 🏦 Bankist App
-Bankist App Preview
 
 ![image](https://github.com/user-attachments/assets/a7325ecd-3419-40b2-964b-4d6142a91030)
 
@@ -23,11 +22,11 @@ Simple process to close your account and terminate banking relationships.
 
 Demo
 Experience the live demo of the Bankist App here:
-👉 Bankist App Demo
+👉 [Bankist App Demo](https://novabankapp.netlify.app/)
 
 GitHub Repository
 Explore the source code and details of the Nova Bank website on my GitHub repository:
-👉 Nova Bank Website Repository
+👉 [Nova Bank Website Repository](https://github.com/BAINDA/Nova-Bank-Website)
 
 Technologies Used
 HTML
