@@ -1,6 +1,6 @@
-# 🏦 Bankist App
+# 🏦 NovaBank App
 
-![Bankist App Preview](https://github.com/user-attachments/assets/a7325ecd-3419-40b2-964b-4d6142a91030)
+![NovaBank App Preview](https://github.com/user-attachments/assets/a7325ecd-3419-40b2-964b-4d6142a91030)
 
 **Nova Bank App** is a JavaScript-based banking application that enables users to manage their accounts, perform various banking operations, and enjoy a seamless and secure online banking experience.
 
@@ -12,8 +12,8 @@
 - 🚪 **Close Account:** Simple process to close your account and terminate banking relationships.
 
 ## Demo
-Experience the live demo of the Bankist App here:  
-👉 [Bankist App Demo](https://novabankapp.netlify.app/)
+Experience the live demo of the NovaBank App here:  
+👉 [NovaBank App Demo](https://novabankapp.netlify.app/)
 
 ## GitHub Repository
 Explore the source code and details of the Nova Bank website on my GitHub repository:  
